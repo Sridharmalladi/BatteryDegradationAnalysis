@@ -15,9 +15,7 @@ This project implements a comprehensive battery degradation analysis system that
 ```
 battery_degradation/
 ├── data/
-│   ├── raw/                    # Raw battery cycling data
-│   ├── processed/              # Cleaned and processed datasets
-│   └── external/               # External reference datasets
+│   └── Battery_Data_Cleaned.csv               # External reference datasets from Kaggle
 ├── src/
 │   ├── data_processing/
 │   │   ├── __init__.py
