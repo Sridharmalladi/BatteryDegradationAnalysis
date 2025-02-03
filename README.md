@@ -160,7 +160,7 @@ python src/models/capacity_fade.py
 
 ### Degradation Mechanisms
 - Quantified the contribution of different aging mechanisms:
-  - SEI layer growth: 45,57% of capacity fade
+  - SEI layer growth: 45.57% of capacity fade
   - Active material loss: 30.12%
   - Lithium plating: 25.22%
 - Developed early warning indicators for detecting accelerated aging conditions
