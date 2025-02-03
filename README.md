@@ -107,7 +107,7 @@ battery_degradation/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/battery-degradation.git
+git clone https://github.com/Sridharmalladi/BatteryDegradationAnalysis.git
 cd battery-degradation
 ```
 
